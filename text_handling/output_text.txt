@@ -1,0 +1,22 @@
+pandas 1.0.4 pypi
+numpy 1.19.4 pypi
+cherry red
+requests 1.9.4 pypi
+sklearn 1.0.2 pypi
+django 2.0.1 pypi
+boto3 3.9.1 pypi
+tensorflow 4.2 pypi
+openai 1.1.0 pypi
+sigma male
+student 2.2.2
+claw nest 3,2;2
+adore plan 2.2.0
+
+pandas=1.0.4
+numpy=1.19.4
+requests=1.9.4
+sklearn=1.0.2
+django=2.0.1
+boto3=3.9.1
+tensorflow=4.2
+openai=1.1.0
