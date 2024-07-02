@@ -1,0 +1,122 @@
+    1  git
+    2  git clone https://github.com/antonitz/google-cloud-associate-cloud-engineer.git
+    3  git config --global core.autocrlf false
+    4  git config --global
+    5  git config --global --get-all
+    6  git config --get-all
+    7  git config list
+    8  git config --list
+    9  git config --global core.autocrlf false
+   10  git config --list
+   11  git config --global core.autocrlf=false
+   12  git config --global core.autocrlf false
+   13  git config --global core.autocrlf false
+   14  git config --list
+   15  git config --global --remove-section core.autocrlf true
+   16  git config --global --remove-section core.autocrlf
+   17  git config --list
+   18  git config --global --unset core.autocrlf true
+   19  git config --list
+   20  git config -e
+   21  git config -e auto.crlf
+   22  git config --edit
+   23  pwd
+   24  cd Documents/
+   25  ls
+   26  git clone https://github.com/wildbipin/work-notes.git
+   27  git pull origin main
+   28  git remote add origin https://github.com/wildbipin/Python-Scripts.git
+   29  echo "# Python-Scripts" >> README.md
+   30  git init
+   31  git add README.md
+   32  git commit -m "first commit"
+   33  git branch -M main
+   34  git remote add origin https://github.com/wildbipin/Python-Scripts.git
+   35  git push -u origin main
+   36  ls
+   37  git add .
+   38  git status
+   39  git commit -m "initial scripts commit"
+   40  git push -u origin main
+   41  vim G10X_Scripts/list_all_azureVM.py
+   42  git push -u origin main
+   43  git status
+   44  git add .
+   45  git commit -m "remove secret"
+   46  git status
+   47  git push -u origin main
+   48  git commit
+   49  git log
+   50  git rebase -i HEAD~3
+   51  git rebase -i HEAD~2
+   52  ls
+   53  git log
+   54  git reflog
+   55  git reset --hard HEAD@{2}
+   56  ls
+   57  git status
+   58  git commit --amend
+   59  ls
+   60  vim G10X_Scripts/list_all_azureVM.py
+   61  git status
+   62  git add .
+   63  git status
+   64  git status
+   65  git log
+   66  git rebase --continue
+   67  ls
+   68  cat G10X_Scripts/list_all_azureVM.py
+   69  git push -u origin main
+   70  git log
+   71  git commit --amend 4ad55da150b556e27d013b9465108bdadb3ee1e0
+   72  git log --raw
+   73  git rebase -i HEAD~3
+   74  git rebase -i HEAD~2
+   75  git rebase -i HEAD~2
+   76  git rebase --abort
+   77  git rebase -i HEAD~2
+   78  ls
+   79  vim G10X_Scripts/list_all_azureVM.py
+   80  git commit -a --amend --no-edit
+   81  git rebase --continue
+   82  git push -u origin main
+   83  git rebase --abort
+   84  ls
+   85  ll
+   86  git log
+   87  git rebase -i 4ad55da150b556e27d013b9465108bdadb3ee1e0~1
+   88  ll
+   89  vim G10X_Scripts/list_all_azureVM.py
+   90  vim G10X_Scripts/list_all_azureVM.py
+   91  git commit --amend
+   92  git rebase --continue
+   93  git push -u origin main
+   94  git rebase --continue
+   95  git status
+   96  git add
+   97  git add .
+   98  git status
+   99  git commit --amend
+  100  cat G10X_Scripts/list_all_azureVM.py
+  101  git status
+  102  git commit --amend
+  103  git status
+  104  git rebase --continue
+  105  git status
+  106  git add .
+  107  git status
+  108  git commit --amend --no-edit
+  109  cat G10X_Scripts/list_all_azureVM.py
+  110  git status
+  111  git commit --amend --no-edit
+  112  cat G10X_Scripts/list_all_azureVM.py
+  113  git status
+  114  vim G10X_Scripts/list_all_azureVM.py
+  115  git status
+  116  git add .
+  117  git commit --amend --no-edit
+  118  git status
+  119  vim G10X_Scripts/list_all_azureVM.py
+  120  git rebase --continue
+  121  git push -u origin main
+  122  history

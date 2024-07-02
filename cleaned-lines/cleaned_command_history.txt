@@ -1,0 +1,122 @@
+git
+git clone https://github.com/antonitz/google-cloud-associate-cloud-engineer.git
+git config --global core.autocrlf false
+git config --global
+git config --global --get-all
+git config --get-all
+git config list
+git config --list
+git config --global core.autocrlf false
+git config --list
+git config --global core.autocrlf=false
+git config --global core.autocrlf false
+git config --global core.autocrlf false
+git config --list
+git config --global --remove-section core.autocrlf true
+git config --global --remove-section core.autocrlf
+git config --list
+git config --global --unset core.autocrlf true
+git config --list
+git config -e
+git config -e auto.crlf
+git config --edit
+pwd
+cd Documents/
+ls
+git clone https://github.com/wildbipin/work-notes.git
+git pull origin main
+git remote add origin https://github.com/wildbipin/Python-Scripts.git
+echo "# Python-Scripts" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/wildbipin/Python-Scripts.git
+git push -u origin main
+ls
+git add .
+git status
+git commit -m "initial scripts commit"
+git push -u origin main
+vim G10X_Scripts/list_all_azureVM.py
+git push -u origin main
+git status
+git add .
+git commit -m "remove secret"
+git status
+git push -u origin main
+git commit
+git log
+git rebase -i HEAD~3
+git rebase -i HEAD~2
+ls
+git log
+git reflog
+git reset --hard HEAD@{2}
+ls
+git status
+git commit --amend
+ls
+vim G10X_Scripts/list_all_azureVM.py
+git status
+git add .
+git status
+git status
+git log
+git rebase --continue
+ls
+cat G10X_Scripts/list_all_azureVM.py
+git push -u origin main
+git log
+git commit --amend 4ad55da150b556e27d013b9465108bdadb3ee1e0
+git log --raw
+git rebase -i HEAD~3
+git rebase -i HEAD~2
+git rebase -i HEAD~2
+git rebase --abort
+git rebase -i HEAD~2
+ls
+vim G10X_Scripts/list_all_azureVM.py
+git commit -a --amend --no-edit
+git rebase --continue
+git push -u origin main
+git rebase --abort
+ls
+ll
+git log
+git rebase -i 4ad55da150b556e27d013b9465108bdadb3ee1e0~1
+ll
+vim G10X_Scripts/list_all_azureVM.py
+vim G10X_Scripts/list_all_azureVM.py
+git commit --amend
+git rebase --continue
+git push -u origin main
+git rebase --continue
+git status
+git add
+git add .
+git status
+git commit --amend
+cat G10X_Scripts/list_all_azureVM.py
+git status
+git commit --amend
+git status
+git rebase --continue
+git status
+git add .
+git status
+git commit --amend --no-edit
+cat G10X_Scripts/list_all_azureVM.py
+git status
+git commit --amend --no-edit
+cat G10X_Scripts/list_all_azureVM.py
+git status
+vim G10X_Scripts/list_all_azureVM.py
+git status
+git add .
+git commit --amend --no-edit
+git status
+vim G10X_Scripts/list_all_azureVM.py
+git rebase --continue
+git push -u origin main
+history
